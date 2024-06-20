@@ -1,0 +1,8 @@
+# robots.txt file for www.imageopsis.com
+
+User-agent: *
+Allow: *
+
+# Disallow:
+# Allow:
+# Sitemap:
